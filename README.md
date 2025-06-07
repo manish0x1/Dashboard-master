@@ -39,10 +39,5 @@ Check out the live demo [here](https://admin-dashboard-admin.netlify.app/) to ex
 - Framework: Vite.js
 - Technologies: React.js, Syncfusion, Tailwind CSS
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-  
 
 
